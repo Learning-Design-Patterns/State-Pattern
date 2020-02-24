@@ -1,5 +1,5 @@
 # State Pattern
-  * State pattern allows a object differnetly when it state changes.
+  * State pattern allows a object differnetly when it state changes at run time.
   * For an example 
     * Think of UI control which has Draw abstract method.
     * There is a Textbox control which implements the UI control's Draw method.
